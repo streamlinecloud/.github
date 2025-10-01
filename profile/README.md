@@ -1,5 +1,8 @@
 ## Hi there 👋
+StreamlineCloud is a free and opensource cloud system for paper and velocity based minecraft networks.
 
+### [Homepage](https://streamlinecloud.net/)
+### [Main repo](https://github.com/streamlinecloud/StreamlineCloud/)
 <!--
 
 **Here are some ideas to get you started:**
